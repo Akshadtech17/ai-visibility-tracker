@@ -1,0 +1,6 @@
+{
+  "name": "AI Citation Tracker & Visibility Intelligence",
+  "description": "Real-time command center for AI visibility, LLM citation tracking, semantic gap analysis, and vector intelligence indexing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
